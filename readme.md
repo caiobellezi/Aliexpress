@@ -5,4 +5,4 @@
 
 
 Testando edição VI
-01010101
+deletado 01010101
