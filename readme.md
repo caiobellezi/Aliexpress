@@ -4,5 +4,3 @@
 02 - Analysis
 
 
-Testando edição VI
-deletado 01010101
